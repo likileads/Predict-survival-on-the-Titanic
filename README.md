@@ -10,4 +10,4 @@ While there was some element of luck involved in surviving, it seems some groups
 ## The Task
 
 To build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
--[ ]https://github.com/likileads/Predict-survival-on-the-Titanic/blob/main/Predict%20survival%20on%20the%20Titanic.ipynb
+- [x] [Solution](https://github.com/likileads/Predict-survival-on-the-Titanic/blob/main/Predict%20survival%20on%20the%20Titanic.ipynb)
